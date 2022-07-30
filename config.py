@@ -1,0 +1,9 @@
+TEMP_DIR = './temp/'
+IMAGE_DIR = f'{TEMP_DIR}images/'
+WEBM_DIR = f'{TEMP_DIR}webm/'
+TEMP_VIDEO = f'{TEMP_DIR}video.mp4'
+SEQUENCE_LIST = f'{TEMP_DIR}mylist.txt'
+FFMPEG_BIN = "ffmpeg"
+VIDEO_NAME = "./video.mp4"
+SOUND_NAME = "./sound.ogg"
+IMAGE_NAME = "./image.png"
